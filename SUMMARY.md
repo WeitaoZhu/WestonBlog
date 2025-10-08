@@ -11,10 +11,10 @@
 
 ## Computer Architecture
 
+* [CMU CS15213: CSAPP](./docs/ComputerArchitecture/CSAPP/README.md)
+* [ETH: Digital Design and Computer Architecture](./docs/ComputerArchitecture/DDCA/README.md)
 * [ETH: Computer Architecture](./docs/ComputerArchitecture/CA/README.md)
 * [Great Ideas in Computer Architecture](./docs/ComputerArchitecture/CS61C/README.md)
-* [ETH: Digital Design and Computer Architecture](./docs/ComputerArchitecture/DDCA/README.md)
-* [CMU CS15213: CSAPP](./docs/ComputerArchitecture/CSAPP/README.md)
 
 ## Computer Networking
 * [Computer Networking: A Top-Down Approach](./docs/ComputerNetworking/CNATDA/README.md)
