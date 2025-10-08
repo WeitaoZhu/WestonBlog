@@ -4,7 +4,15 @@
 
 * [个人知识库概要](README.md)
 
+## EssentialTools
+* [VIM Tool](./docs/EssentialTools/VIM/README.md)
+  * [Vim 命令速查表-中文版](./docs/EssentialTools/VIM/README_CN.md)
+  * [Vim 命令速查表-英文版](./docs/EssentialTools/VIM/README_EN.md)
+
+
+
 ## Computer Architecture
+
 * [ETH: Computer Architecture](./docs/ComputerArchitecture/CA/README.md)
 * [Great Ideas in Computer Architecture](./docs/ComputerArchitecture/CS61C/README.md)
 * [ETH: Digital Design and Computer Architecture](./docs/ComputerArchitecture/DDCA/README.md)
